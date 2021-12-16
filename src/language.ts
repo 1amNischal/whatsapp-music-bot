@@ -18,15 +18,15 @@ const br = {
 
 const en = {
   MESSAGE_CONNECTED: 'Successfully connected!',
-  MESSAGE_NOT_FOUND: 'Not found. Try again',
-  MESSAGE_TOO_LARGE: 'Music duration is too large!',
+  MESSAGE_NOT_FOUND: 'Not found. Try again Temporary Nishi-Bot ',
+  MESSAGE_TOO_LARGE: 'Music duration is too large! Temporary Nishi-Bot',
   MESSAGE_WAIT_QUEUE:
-    'Download proccess got taken by another user. Await then finish to continue',
+    'Download proccess got taken by another user. Await then finish to continue Temporary Nishi-Bot',
   MESSAGE_DOWNLOAD_STARTED:
-    '*DOWNLOAD STARTED:* _This action can take some minutes_',
+    '*DOWNLOAD STARTED:* _This action can take some minutes_ Temporary Nishi-Bot',
   MESSAGE_DOWNLOAD_ERROR: 'Error! Try again',
   MESSAGE_NO_DOWNLOADED_MUSICS: 'No stored musics',
-  MESSAGE_ERROR: 'Error to complete operation.',
+  MESSAGE_ERROR: 'Error to complete operation. Temporary Nishi-Bot',
   COMMAND_PLAY: '!play',
   COMMAND_INFO: '!info',
   COMMAND_MUSICS: '!musics',
